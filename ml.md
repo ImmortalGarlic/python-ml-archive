@@ -23,3 +23,9 @@
 - [Practical Lessons from Predicting Clicks on Ads at Facebook (2014)](http://quinonero.net/Publications/predicting-clicks-facebook.pdf)
 #### `2. Modelling user behavior`
 - [Using Text Embeddings for Information Retrieval (2016)](https://www.slideshare.net/BhaskarMitra3/using-text-embeddings-for-information-retrieval)
+
+### Readlater
+- [Faster K-Means Cluster Estimation](https://arxiv.org/pdf/1701.04600.pdf)
+- Kernel K-Means
+- Spectral clustering
+- CRF, MRF
