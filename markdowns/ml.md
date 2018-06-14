@@ -29,3 +29,7 @@
 - Kernel K-Means
 - Spectral clustering
 - CRF, MRF
+
+### [BrainHoles](https://www.quora.com/What-does-%E8%84%91%E6%B4%9E%E5%A4%A7%E5%BC%80-mean)
+- [Memory Networks](https://arxiv.org/pdf/1410.3916.pdf)
+- [大トロ](http://blog.otoro.net/)
