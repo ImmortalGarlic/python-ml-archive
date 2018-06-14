@@ -11,6 +11,10 @@
 | ------------- |-------------|
 |Reformat disk to attachment|`sudo mkfs -t ext4 /dev/[your disk name]`|
 - [cannot mount when not properly unmounted last time](https://ubuntuforums.org/showthread.php?t=1898721)
+### Network
+|Description|Command|
+| ------------- |-------------|
+|Port status|`netstat -nat \| grep 8080`|
 ### crontab
 - [Tutorial(JP)](https://qiita.com/shunyooo/items/69c3523a8c500b37f33f)
 - [cron command generator](http://www.cronmaker.com/)
