@@ -11,6 +11,10 @@
 | ------------- |-------------|
 |Reformat disk to attachment|`sudo mkfs -t ext4 /dev/[your disk name]`|
 - [cannot mount when not properly unmounted last time](https://ubuntuforums.org/showthread.php?t=1898721)
+### Process
+|Description|Command|
+| ------------- |-------------|
+|Show all java processes|`ps -ef\| grep java`|
 ### Network
 |Description|Command|
 | ------------- |-------------|
