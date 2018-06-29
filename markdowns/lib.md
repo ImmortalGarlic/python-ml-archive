@@ -2,6 +2,8 @@
 *Alternatives: [janome](https://github.com/mocobeta/janome), [kuromoji](https://github.com/atilika/kuromoji)*
   - `Installation`
     - [Install MeCab and mecab-python3 on Ubuntu 14.04](https://qiita.com/elm200/items/2c2aa2093e670036bb30)
+      - WARNING: This does not work!
+    - [INSTALL MECAB-PYTHON3 THE RIGHT WAY!](https://pypi.org/project/mecab-python3/)
     - *Use [janome](https://github.com/mocobeta/janome) instead if you find the dependencies annoying*
   - `Debug`
     - [Cannot get surface element!](https://shogo82148.github.io/blog/2015/12/20/mecab-in-python3-final/)
