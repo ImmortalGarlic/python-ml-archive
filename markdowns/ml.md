@@ -18,6 +18,8 @@
 - [Topic Word Embedding (2015)](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9314/9535)
 - [#TAGSPACE: Semantic Embeddings from Hashtags (2014)](http://emnlp2014.org/papers/pdf/EMNLP2014194.pdf)
 - [EmTaggeR：A Word Embedding Based Novel Method for Hashtag Recommendation on Twitter (2017)](https://arxiv.org/pdf/1712.01562.pdf)
+### `3. From shallow to deep representations`
+- [Deep contextualized word representations (2018)](https://arxiv.org/pdf/1802.05365.pdf)
 ## Graphical Models
 - [An Introduction to Conditional Random Field (2010)](https://arxiv.org/pdf/1011.4088.pdf)
 ## Machine Learning in Digital Advertising 
