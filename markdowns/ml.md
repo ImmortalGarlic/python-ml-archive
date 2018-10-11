@@ -5,6 +5,8 @@
 - [Visiting: Categorical Features and Encoding in Decision Trees](https://medium.com/data-design/visiting-categorical-features-and-encoding-in-decision-trees-53400fa65931)
 - [A gentle introduction to gradient boosting](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf)
 - [K-Means and Gaussian Mixture Models](https://davidrosenberg.github.io/ml2015/docs/13.mixture-models.pdf)
+### `2. Clustering`
+- [Unsupervised Deep Embedding for Clustering Analysis](http://proceedings.mlr.press/v48/xieb16.pdf)
 ## Transfer Learning
 - [転移学習：機械学習の次のフロンティアへの招待](https://qiita.com/icoxfog417/items/48cbf087dd22f1f8c6f4)
 - [Transfer Learning For Cross-Dataset Recognition: A Survey](https://arxiv.org/pdf/1705.04396.pdf)
