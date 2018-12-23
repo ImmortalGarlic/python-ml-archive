@@ -12,3 +12,6 @@
   - `dask.bag.map(func)`:  don't use inner functions in `func`
   - creating `dask.bag`: use parameter `npartitions` if not parallelized automatically
   - [Comparison between Dask and Ray](https://github.com/ray-project/ray/issues/642)
+
+#### `Sklearn`: machine learning in Python
+  - [`linear regressor` vs `sgdregressor` in sklearn](https://sdsawtelle.github.io/blog/output/week2-andrew-ng-machine-learning-with-python.html)
