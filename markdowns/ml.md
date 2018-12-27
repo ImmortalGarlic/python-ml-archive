@@ -1,4 +1,12 @@
-
+## Table of Contents
+- [Machine Learning: General](#machine-learning-general)
+- [Transfer Learning](#transfer-learning)
+- [Natural Language Processing](#natural-language-processing)
+- [Graphical Models](#graphical-models)
+- [Graph Neural Networks](#graph-neural-networks)
+- [Machine Learning in Digital Advertising](#machine-learning-in-digital-advertising)
+- [Readlater](#readlater)
+- [Brainholes](#brainholes)
 ## Machine Learning: General
 ### `1. Models Explained`
 - [Decision Trees](https://www.autonlab.org/_media/tutorials/dtree18.pdf)
@@ -24,6 +32,9 @@
 - [Deep contextualized word representations (2018)](https://arxiv.org/pdf/1802.05365.pdf)
 ## Graphical Models
 - [An Introduction to Conditional Random Field (2010)](https://arxiv.org/pdf/1011.4088.pdf)
+## Graph Neural Networks
+- [Graph Neural Networks: A Review of Methods and Applications (2018)](https://arxiv.org/pdf/1812.08434.pdf)
+- [How Powerful Are Graph Neural Networks? (2018)](https://arxiv.org/pdf/1810.00826.pdf)
 ## Machine Learning in Digital Advertising 
 ### `1. KPI prediction`
 - [Practical Lessons from Predicting Clicks on Ads at Facebook (2014)](http://quinonero.net/Publications/predicting-clicks-facebook.pdf)
