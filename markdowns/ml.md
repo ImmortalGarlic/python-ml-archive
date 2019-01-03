@@ -24,6 +24,7 @@
   - [paper notes (Chinese)](http://licstar.net/archives/620)
 - [Neural Word Embedding as Implicit Matrix Factorization (2014)](http://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf)
 - [StackOverFlow: How to get vector for a sentence from the word2vec of tokens in sentence](https://stackoverflow.com/questions/29760935/how-to-get-vector-for-a-sentence-from-the-word2vec-of-tokens-in-sentence)
+- [On the Dimensionality of Word Embedding (2018)](https://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding.pdf)
 ### `2. Text label embedding (hashtag/topic)`
 - [Topic Word Embedding (2015)](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9314/9535)
 - [#TAGSPACE: Semantic Embeddings from Hashtags (2014)](http://emnlp2014.org/papers/pdf/EMNLP2014194.pdf)
