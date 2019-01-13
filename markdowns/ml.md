@@ -15,6 +15,10 @@
 - [K-Means and Gaussian Mixture Models](https://davidrosenberg.github.io/ml2015/docs/13.mixture-models.pdf)
 ### `2. Clustering`
 - [Unsupervised Deep Embedding for Clustering Analysis](http://proceedings.mlr.press/v48/xieb16.pdf)
+## Deep Learning: General
+### `1. Models Explained`
+- [A Convergence Theory for Deep Learning via Over-Parameterization (2018)](https://arxiv.org/pdf/1811.03962.pdf)
+- [Gradient Descent Finds Global Minima of Deep Neural Networks (2018)](https://arxiv.org/pdf/1811.03804.pdf)
 ## Transfer Learning
 - [転移学習：機械学習の次のフロンティアへの招待](https://qiita.com/icoxfog417/items/48cbf087dd22f1f8c6f4)
 - [Transfer Learning For Cross-Dataset Recognition: A Survey](https://arxiv.org/pdf/1705.04396.pdf)
