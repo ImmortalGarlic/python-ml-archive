@@ -1,3 +1,6 @@
+#### `Requests`: HTTP for humans
+  - Disable `requests.get(url, verify=False)` warning: requests.packages.urllib3.disable_warnings()
+
 #### `MeCab`: the Japanese language text segmentation engine
 *Alternatives: [janome](https://github.com/mocobeta/janome), [kuromoji](https://github.com/atilika/kuromoji)*
   - `Installation`
